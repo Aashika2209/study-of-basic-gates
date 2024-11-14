@@ -1,5 +1,7 @@
 ### study-of-basic-gates
-
+### EXPERIMENT --01-STUDY OF BASIC DIGITAL IC’s AND VERIFICATION OF TRUTH TABLES FOR DIFFERENT LOGIC GATES, REALIZATION USING VERILOG
+### NAME : AASHIKA JAIN . G
+### REF NO : 24900589
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -66,13 +68,29 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+
+ ![Screenshot 2024-11-13 061119](https://github.com/user-attachments/assets/634c9a55-7da6-4edd-96bf-c56013b61cbb)
+
+
  
 **Logic symbol & Truthtable**
 
-**RTL realization Output:** 
+
+![Screenshot 2024-11-14 031910](https://github.com/user-attachments/assets/b71ca240-41b8-44a1-bc74-4200e15e16ae)
+
+
+**RTL realization Output:**
+
+
+![Screenshot 2024-11-13 063133](https://github.com/user-attachments/assets/4ecda7c0-3695-4a2c-92a3-89d915ff3761)
+
+
 
 **RTL**
+
+
+![Screenshot 2024-11-13 063016](https://github.com/user-attachments/assets/a9b18d68-bdf2-4469-928c-cf5af8111b20)
+
 
 **Result:**
 
